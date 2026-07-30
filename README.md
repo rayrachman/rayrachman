@@ -9,7 +9,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 * 📊 **Aspiring Data Scientist & Machine Learning Enthusiast** — passionate about extracting actionable insights from complex data, building predictive models, and deploying AI solutions.
 * 🎓 **Final Year Information Technology Student** at **Universitas Siliwangi**, based in **Tasikmalaya, Indonesia**.
@@ -18,7 +18,7 @@
 
 ---
 
-### 🎯 Currently Leveling Up
+### Currently Leveling Up
 
 <p align="left">
   <img src="https://img.shields.io/badge/DATA_SCIENCE-0172B2?style=for-the-badge&logoColor=white" />
@@ -29,9 +29,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 💻 Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 📊 Data Science & Machine Learning
+#### Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -52,13 +52,13 @@
   <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-#### 🌐 Web Development & Deployment
+#### Web Development & Deployment
 <p>
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-#### ⚙️ Tools & Platforms
+#### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayrachman&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
