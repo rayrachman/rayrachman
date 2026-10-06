@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Moch Rayhan Aulia Rachman</h1>
 
 <p align="center">
-  <a href="https://id.linkedin.com/in/moch-rayhan-aulia-rachman-6a442b243">
+  <a href="https://linkedin.com/in/moch-rayhan-aulia-rachman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/rayrachman_">
@@ -17,17 +17,17 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-* 📊 **Aspiring Data Scientist & Machine Learning Enthusiast** with an Information Technology background, focused on turning data into meaningful insights and predictive solutions.
+* 📊 **Aspiring Data Scientist | Machine Learning & Data Analytics** with an Information Technology background, focused on turning data into meaningful insights and predictive solutions.
 * 🎓 **Information Technology Background** from **Universitas Siliwangi**, Tasikmalaya, Indonesia.
-* 🧠 Interested in **Machine Learning, Deep Learning, Exploratory Data Analysis, Feature Engineering, and Data Visualization**.
-* 🔬 Experienced with projects involving **image classification, computer vision, and predictive modeling** using real-world datasets.
-* 🚀 Currently building a portfolio of end-to-end Data Science projects to strengthen my skills in data analysis, machine learning, and model evaluation.
+* 🧠 Interested in **Machine Learning, Deep Learning, Exploratory Data Analysis, Feature Engineering, Data Visualization, and Computer Vision**.
+* 🚀 Building end-to-end data projects, from **data cleaning and exploratory analysis to machine learning, analytics applications, and deployment**.
+* 🔬 Experienced in developing projects involving **tabular data, image classification, data analytics applications, and predictive modeling**.
 
 ---
 
-### Currently Leveling Up
+### 🚀 Currently Leveling Up
 
 <p align="left">
   <img src="https://img.shields.io/badge/DATA_SCIENCE-0172B2?style=for-the-badge&logoColor=white" />
@@ -40,9 +40,9 @@
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-#### Programming & Query Languages
+#### 🐍 Programming & Query Languages
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### Data Science & Machine Learning
+#### 📊 Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-#### Data Analysis & Visualization
+#### 📈 Data Analysis & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/EDA-0172B2?style=for-the-badge&logoColor=white" />
@@ -72,18 +72,20 @@
   <img src="https://img.shields.io/badge/DATA_VISUALIZATION-E65100?style=for-the-badge&logoColor=white" />
 </p>
 
-#### Web Development & Deployment
+#### 🌐 Web Development & Deployment
 
 <p>
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### Tools & Platforms
+#### 🗄️ Database & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -93,25 +95,54 @@
 
 ---
 
-### Featured Projects
+### ⭐ Featured Projects
+
+#### 🥗 NutriScale SPPG — Nutrition Analytics Platform
+
+A deployed **Streamlit application** designed to support nutrition planning, food database management, macro-nutrient calculation, daily reporting, and data visualization using **1,200+ Indonesian food records**.
+
+**Focus:**
+`Python` `Pandas` `SQLite` `Data Processing` `Data Visualization` `Streamlit` `Deployment`
+
+🌐 **[Live Demo](https://nutriscale.streamlit.app)**
+
+---
 
 #### 🌋 Indonesia Earthquake Classification
-Machine Learning project for classifying Indonesian earthquakes into **Minor** and **Major** categories using seismic and temporal features.
 
-**Focus:**  
-`EDA` `Feature Engineering` `Machine Learning` `Classification` `Geospatial Analysis`
+A Machine Learning project that classifies Indonesian earthquakes into **Minor (M < 5.0)** and **Major (M ≥ 5.0)** categories using seismic, temporal, and spatial features.
+
+The project covers data cleaning, exploratory data analysis, feature engineering, model comparison, cross-validation, feature importance analysis, and geospatial visualization.
+
+**Focus:**
+`Python` `Pandas` `Scikit-learn` `EDA` `Feature Engineering` `Classification` `Geospatial Analysis`
 
 ---
 
 #### 🌿 Aloe Vera Leaf Disease Classification
-Deep Learning project for detecting and classifying diseases in **Aloe vera leaves** using image-based analysis.
 
-**Focus:**  
-`Computer Vision` `CNN` `Deep Learning` `Image Processing` `Classification`
+A Deep Learning project focused on detecting and classifying diseases in **Aloe vera leaves** using image-based analysis.
+
+The project explores image preprocessing, computer vision, CNN-based classification, model training, and evaluation.
+
+**Focus:**
+`Python` `TensorFlow` `Keras` `OpenCV` `CNN` `Deep Learning` `Computer Vision`
 
 ---
 
-### GitHub Stats
+### 📚 Areas of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analytics-0172B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge" />
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayrachman&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
