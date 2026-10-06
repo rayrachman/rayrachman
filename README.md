@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Moch Rayhan Aulia Rachman</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/moch-rayhan-aulia-rachman">
+  <a href="**https://id.linkedin.com/in/moch-rayhan-aulia-rachman-6a442b243**">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/rayrachman_">
